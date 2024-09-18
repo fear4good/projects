@@ -1,0 +1,671 @@
+cord,award,education,name
+55,2,1,Atta ur Rehman Khan 
+155,2,1,Wil van der Aalst 
+370,7,1,Scott Aaronson 
+325,5,1,Rediet Abebe 
+457,6,1,Hal Abelson 
+49,6,1,Serge Abiteboul 
+104,5,1,Samson Abramsky 
+170,2,1,Leonard Adleman 
+88,1,1,Manindra Agrawal 
+109,1,1,Luis von Ahn 
+655,2,1,Alfred Aho 
+137,2,1,Frances E. Allen 
+327,3,1,Gene Amdahl 
+483,2,1,David P. Anderson 
+261,3,1,Lisa Anthony 
+295,1,1,Andrew Appel 
+16,5,1,Cecilia R. Aragon 
+546,4,1,Bruce Arden 
+70,4,1,Sanjeev Arora 
+653,6,1,"Winifred ""Tim"" Alice Asprey "
+30,5,1,John Vincent Atanasoff 
+263,3,1,Shakuntala Atre 
+176,6,1,Charles Babbage
+298,2,1,Charles Bachman 
+523,3,1,Roland Carl Backhouse 
+652,2,1,John Backus 
+10,3,1,David F. Bacon 
+17,5,1,David A. Bader
+462,4,1,Victor Bahl
+218,4,1,Anthony James Barr 
+645,5,1,Jean Bartik
+136,6,1,Andrew Barto
+579,6,1,Friedrich L. Bauer 
+618,2,1,Rudolf Bayer 
+291,3,1,Gordon Bell
+166,6,1,Steven M. Bellovin 
+21,5,1,Cecilia Berdichevsky
+273,3,1,Tim Berners-Lee 
+102,4,1,Daniel J. Bernstein 
+503,3,1,Peter Bernus
+648,6,1,Abhay Bhushan
+467,2,1,Dines Bjørner
+415,5,1,Gerrit Blaauw 
+200,6,1,Sue Black
+637,1,1,David Blei
+181,5,1,Dorothy Blum 
+31,5,1,Lenore Blum 
+504,1,1,Manuel Blum 
+344,5,1,Barry Boehm 
+221,5,1,Corrado Böhm
+193,6,1,Kurt Bollacker
+116,2,1,Jeff Bonwick 
+68,2,1,Grady Booch 
+5,6,1,George Boole 
+129,6,1,Andrew Booth 
+512,6,1,Kathleen Booth 
+1,5,1,Anita Borg
+343,3,1,Bert Bos 
+612,1,1,Mikhail Botvinnik 
+346,5,1,Jonathan Bowen 
+315,4,1,Stephen R. Bourne 
+328,4,1,Harry Bouwman
+331,4,1,Robert S. Boyer 
+660,1,1,Karlheinz Brandenburg 
+632,3,1,Lawrence M. Breed 
+210,4,1,Jack E. Bresenham 
+62,3,1,Sergey Brin 
+98,2,1,David J. Brown 
+24,5,1,Per Brinch Hansen
+384,1,1,Sjaak Brinkkemper 
+335,1,1,Fred Brooks 
+608,3,1,Rod Brooks
+13,1,1,Margaret Burnett 
+287,1,1,Michael Butler 
+412,6,1,Tracy Camp 
+487,1,1,Martin Campbell-Kelly 
+235,6,1,Rosemary Candlin
+87,5,1,Rod Canion
+389,4,1,Bryan Cantrill 
+46,1,1,Luca Cardelli 
+51,5,1,John Carmack 
+500,4,1,Edwin Catmull 
+421,2,1,Vint Cerf 
+506,2,1,Gregory Chaitin
+458,4,1,Robert Cailliau 
+593,5,1,Zhou Chaochen 
+146,2,1,Peter Chen 
+413,5,1,Leonardo Chiariglione 
+332,6,1,Tracy Chou 
+581,1,1,Alonzo Church 
+90,1,1,Alberto Ciaramella 
+366,1,1,Edmund M. Clarke 
+501,5,1,John Cocke 
+364,4,1,Edgar F. Codd
+621,3,1,Jacques Cohen 
+243,3,1,Ian Coldwater 
+643,2,1,Simon Colton 
+391,1,1,Alain Colmerauer 
+160,2,1,Douglas Comer 
+436,6,1,Paul Justin Compton 
+537,4,1,Richard W. Conway 
+583,4,1,Gordon Cormack 
+326,3,1,Stephen Cook 
+388,5,1,James Cooley 
+453,5,1,Danese Cooper 
+67,4,1,Fernando J. Corbató
+659,6,1,Kit Cosper 
+322,2,1,Patrick Cousot 
+270,3,1,Ingemar Cox 
+540,6,1,Seymour Cray 
+509,6,1,Nello Cristianini 
+37,3,1,Jon Crowcroft 
+269,3,1,W. Bruce Croft
+268,2,1,Glen Culler 
+408,4,1,Haskell Curry
+477,1,1,Luigi Dadda 
+542,6,1,Ole-Johan Dahl 
+642,5,1,Ryan Dahl 
+121,6,1,Andries van Dam 
+464,6,1,Samir Das 
+441,4,1,Neil Daswani 
+596,2,1,Christopher J. Date 
+422,2,1,Jeff Dean 
+244,3,1,Erik Demaine 
+354,1,1,Tom DeMarco
+342,3,1,Richard DeMillo 
+620,3,1,Dorothy E. Denning 
+296,1,1,Peter J. Denning 
+488,2,1,Michael Dertouzos 
+77,6,1,Alexander Dewdney
+6,2,1,Robert Dewar 
+8,2,1,Vinod Dham 
+130,3,1,Jan Dietz
+455,1,1,Whitfield Diffie
+397,5,1,Edsger Dijkstra 
+460,1,1,Matthew Dillon 
+19,1,1,Alan Dix 
+126,2,1,Jack Dongarra 
+597,6,1,Marco Dorigo 
+651,3,1,Paul Dourish 
+167,2,1,Charles Stark Draper
+524,4,1,Susan Dumais 
+514,3,1,Adam Dunkels 
+276,4,1,Jon Michael Dunn 
+255,2,1,Schahram Dustdar 
+631,5,1,Peter Eades 
+158,5,1,Annie Easley
+289,2,1,Wim Ebbinkhuijsen 
+595,3,1,John Presper Eckert 
+196,5,1,Alan Edelman 
+429,1,1,Brendan Eich 
+112,1,1,Philip Emeagwali 
+265,6,1,E. Allen Emerson 
+206,6,1,Douglas Engelbart 
+211,3,1,Barbara Engelhardt 
+424,4,1,David Eppstein
+89,5,1,Andrey Ershov 
+103,4,1,Don Estridge
+23,6,1,Oren Etzioni 
+264,4,1,Christopher Riche Evans
+274,1,1,David C. Evans 
+97,5,1,Shimon Even
+409,3,1,Scott Fahlman
+246,5,1,Edward Feigenbaum 
+182,6,1,Edward Felten 
+603,5,1,Tim Finin
+86,5,1,Raphael Finkel
+132,5,1,Donald Firesmith
+362,3,1,Gary William Flake
+485,6,1,Tommy Flowers 
+134,6,1,Robert Floyd 
+560,2,1,Sally Floyd 
+308,5,1,Lawrence J. Fogel 
+66,3,1,James D. Foley
+258,5,1,Ken Forbus
+627,5,1,"L. R. Ford, Jr."
+271,4,1,Lance Fortnow
+257,1,1,Mahmoud Samir Fayed 
+267,6,1,Martin Fowler
+111,4,1,Robert France
+340,5,1,Herbert W. Franke
+661,1,1,Edward Fredkin
+446,6,1,Yoav Freund
+281,4,1,Daniel P. Friedman
+476,4,1,Charlotte Froese Fischer 
+656,5,1,Ping Fu
+28,5,1,Xiaoming Fu
+144,5,1,Kunihiko Fukushima 
+242,6,1,D. R. Fulkerson
+61,1,1,Richard P. Gabriel 
+290,3,1,Zvi Galil
+443,6,1,Bernard Galler 
+288,1,1,Hector Garcia-Molina
+162,5,1,Michael Garey 
+381,2,1,Hugo de Garis
+140,5,1,Bill Gates 
+259,3,1,David Gelernter
+420,4,1,Lisa Gelobter 
+262,3,1,Charles Geschke
+586,5,1,Zoubin Ghahramani
+640,5,1,Sanjay Ghemawat
+324,2,1,Jeremy Gibbons 
+81,1,1,Juan E. Gilbert 
+309,1,1,Lee Giles 
+635,3,1,Seymour Ginsburg 
+183,2,1,Robert L. Glass
+450,5,1,Kurt Gödel
+403,4,1,Ashok Goel
+330,5,1,Joseph Goguen
+646,5,1,Hardik Gohel
+348,4,1,E. Mark Gold 
+574,2,1,Adele Goldberg 
+225,2,1,Andrew V. Goldberg 
+190,3,1,Ian Goldberg 
+178,2,1,Judy Goldsmith
+590,3,1,Oded Goldreich 
+410,1,1,Shafi Goldwasser 
+240,6,1,Gene Golub 
+549,2,1,Martin Charles Golumbic 
+47,5,1,Gastón Gonnet 
+417,1,1,Ian Goodfellow 
+215,5,1,James Gosling 
+510,4,1,Paul Graham 
+123,4,1,Robert M. Graham 
+576,1,1,Susan L. Graham 
+423,1,1,Jim Gray 
+369,3,1,Sheila Greibach 
+405,6,1,David Gries 
+491,1,1,Ralph Griswold 
+480,3,1,Bill Gropp 
+275,5,1,Tom Gruber 
+50,4,1,Shelia Guberman 
+213,6,1,Ramanathan V. Guha 
+439,2,1,Neil J. Gunther 
+93,4,1,Jürg Gutknecht 
+489,1,1,Michael Guy 
+571,4,1,Robert Griesemer 
+336,6,1,Nico Habermann 
+171,5,1,Philipp Matthäus Hahn 
+114,4,1,Eldon C. Hall 
+459,3,1,Wendy Hall
+617,3,1,Joseph Halpern
+72,4,1,Margaret Hamilton 
+201,1,1,Richard Hamming 
+594,3,1,Jiawei Han 
+94,1,1,Frank Harary 
+401,6,1,Juris Hartmanis 
+117,4,1,Johan Håstad
+163,1,1,Les Hatton 
+217,1,1,Igor Hawryszkiewycz
+519,5,1,He Jifeng 
+668,2,1,Eric Hehner 
+230,5,1,Martin Hellman 
+209,6,1,Gernot Heiser 
+7,1,1,James Hendler 
+452,2,1,John L. Hennessy 
+42,1,1,Andrew Herbert
+527,3,1,Carl Hewitt
+353,4,1,Kelsey Hightower 
+165,4,1,Danny Hillis 
+174,5,1,Geoffrey Hinton
+333,3,1,Julia Hirschberg
+399,6,1,Tin Kam Ho 
+638,4,1,C. A. R. Hoare 
+626,5,1,Louis Hodes
+575,2,1,Betty Holberton 
+521,3,1,John Henry Holland 
+294,3,1,Herman Hollerith
+463,4,1,Gerard Holzmann 
+451,4,1,John Hopcroft 
+376,1,1,Admiral Grace Hopper
+58,5,1,Eric Horvitz 
+91,3,1,Alston Householder
+233,6,1,Paul Hudak
+528,1,1,David A. Huffman
+406,2,1,John Hughes 
+538,5,1,Roger Hui 
+472,5,1,Watts Humphrey
+541,1,1,Jean Ichbiah 
+0,5,1,Roberto Ierusalimschy 
+465,2,1,Dan Ingalls 
+428,5,1,Mary Jane Irwin
+95,5,1,Kenneth E. Iverson 
+29,4,1,Ivar Jacobson 
+481,5,1,Anil K. Jain
+633,1,1,Ramesh Jain
+533,5,1,Jonathan James
+73,6,1,David S. Johnson
+223,5,1,Stephen C. Johnson
+456,2,1,Cliff Jones 
+212,6,1,Michael I. Jordan
+32,5,1,Mathai Joseph
+609,3,1,Aravind K. Joshi
+591,1,1,Bill Joy
+557,1,1,Dan Jurafsky 
+56,6,1,William Kahan 
+108,2,1,Robert E. Kahn 
+280,2,1,Avinash Kak 
+556,5,1,Poul-Henning Kamp 
+610,2,1,David Karger
+222,4,1,Richard Karp 
+658,6,1,Narendra Karmarkar 
+357,3,1,Marek Karpinski 
+479,5,1,Ted Kaehler 
+208,4,1,Alan Kay 
+149,2,1,Neeraj Kayal 
+293,1,1,Manolis Kellis 
+141,3,1,John George Kemeny 
+143,5,1,Ken Kennedy 
+414,5,1,Brian Kernighan
+665,6,1,Carl Kesselman 
+584,3,1,Gregor Kiczales 
+552,6,1,Peter T. Kirstein 
+186,2,1,Stephen Cole Kleene 
+38,3,1,Dan Klein 
+101,5,1,Leonard Kleinrock 
+585,6,1,Donald Knuth 
+277,3,1,Andrew Koenig 
+484,5,1,Daphne Koller 
+359,4,1,Michael Kölling
+619,4,1,Andrey Nikolaevich Kolmogorov 
+547,2,1,Janet L. Kolodner 
+3,5,1,David Korn 
+380,1,1,Kees Koster 
+57,2,1,Robert Kowalski 
+615,4,1,John Koza 
+12,4,1,John Krogstie 
+444,2,1,Joseph Kruskal 
+152,4,1,Thomas E. Kurtz
+602,1,1,Richard E. Ladner
+367,6,1,Monica S. Lam
+65,6,1,Leslie Lamport 
+297,3,1,Butler Lampson 
+515,3,1,Peter Landin 
+495,5,1,Tom Lane 
+185,1,1,Börje Langefors
+525,5,1,Chris Lattner 
+151,1,1,Steve Lawrence
+416,2,1,Edward D. Lazowska
+486,6,1,Joshua Lederberg
+539,1,1,Manny M Lehman
+175,6,1,Charles E. Leiserson 
+628,1,1,Douglas Lenat 
+184,3,1,Yann LeCun
+396,4,1,Rasmus Lerdorf 
+425,5,1,Max Levchin 
+363,3,1,Leonid Levin 
+520,3,1,Kevin Leyton-Brown 
+347,5,1,J.C.R. Licklider
+321,2,1,David Liddle
+43,4,1,Jochen Liedtke 
+402,3,1,John Lions 
+250,3,1,Charles H. Lindsey 
+567,5,1,Richard J. Lipton 
+27,1,1,Barbara Liskov 
+461,6,1,Yanhong Annie Liu 
+430,3,1,Darrell Long 
+189,6,1,Patricia D. Lopez 
+207,5,1,Gillian Lovegrove
+569,3,1,Ada Lovelace 
+568,5,1,David Luckham 
+431,2,1,Eugene Luks
+115,5,1,Nancy Lynch
+148,6,1,Nadia Magnenat Thalmann 
+329,3,1,Tom Maibaum
+249,4,1,Zohar Manna 
+191,5,1,James Martin 
+513,5,1,Robert C. Martin
+299,2,1,John Mashey
+44,1,1,Yuri Matiyasevich 
+239,3,1,Yukihiro Matsumoto 
+349,2,1,John Mauchly
+199,3,1,Ujjwal Maulik
+159,3,1,Derek McAuley 
+75,5,1,John McCarthy 
+26,5,1,Andrew McCallum
+530,2,1,Douglas McIlroy 
+226,4,1,Chris McKinstry 
+71,5,1,Marshall Kirk McKusick 
+666,4,1,Lambert Meertens 
+449,6,1,Kurt Mehlhorn 
+180,5,1,Dora Metcalf 
+260,5,1,Bertrand Meyer 
+572,3,1,Silvio Micali 
+133,6,1,Robin Milner 
+339,6,1,Jack Minker 
+319,1,1,Marvin Minsky 
+300,1,1,James G. Mitchell 
+493,2,1,Tom M. Mitchell
+375,2,1,Arvind Mithal 
+172,4,1,Paul Mockapetris 
+578,6,1,Cleve Moler 
+248,6,1,Faron Moller 
+492,4,1,John P. Moon 
+589,2,1,Charles H. Moore 
+531,4,1,Edward F. Moore 
+138,1,1,Gordon Moore 
+84,5,1,J Strother Moore 
+550,4,1,Roger Moore 
+497,6,1,Hans Moravec 
+630,6,1,Carroll Morgan 
+508,5,1,Robert Tappan Morris 
+69,1,1,Joel Moses 
+272,5,1,Rajeev Motwani 
+228,6,1,Oleg A. Mukhanov 
+316,5,1,Stephen Muggleton 
+470,2,1,Klaus-Robert Müller
+145,4,1,Alan Mycroft 
+407,5,1,Brad A. Myers 
+312,6,1,M.M. Musharaf Hussain 
+601,2,1,Mihai Nadin 
+548,5,1,Makoto Nagao 
+374,2,1,Frieder Nake 
+545,1,1,Bonnie Nardi 
+59,5,1,Peter Naur
+566,5,1,Roger Needham 
+247,3,1,James G. Nell 
+624,1,1,Greg Nelson
+598,4,1,Bernard de Neumann 
+128,2,1,Klara Dan von Neumann
+434,4,1,John von Neumann
+317,4,1,Allen Newell 
+498,1,1,Max Newman 
+204,4,1,Andrew Ng 
+502,2,1,Nils John Nilsson
+534,5,1,G.M. Nijssen 
+139,1,1,Tobias Nipkow 
+205,6,1,Maurice Nivat 
+234,5,1,Phiwa Nkambule 
+150,2,1,Jerre Noe 
+419,5,1,Peter Nordin 
+570,1,1,Donald Norman 
+4,4,1,Peter Norvig 
+34,1,1,George Novacky 
+2,3,1,Kristen Nygaard 
+60,2,1,Martin Odersky 
+83,2,1,Peter O'Hearn 
+284,3,1,T. William Olle 
+448,1,1,Steve Omohundro
+236,4,1,Severo Ornstein
+85,3,1,John O'Sullivan 
+231,1,1,John Ousterhout 
+398,1,1,Mark Overmars 
+478,4,1,Susan Owicki 
+526,6,1,Larry Page 
+395,3,1,Sankar Pal
+106,6,1,Paritosh Pandya
+195,2,1,Christos Papadimitriou
+654,4,1,David Park
+313,5,1,David Parnas 
+390,4,1,DJ Patil 
+318,2,1,Yale Patt 
+11,2,1,David Patterson 
+311,2,1,Mike Paterson 
+577,5,1,Mihai P?tra?cu
+157,4,1,Lawrence Paulson 
+278,2,1,Randy Pausch 
+100,4,1,Juan Pavón
+600,1,1,Judea Pearl 
+385,6,1,Alan Perlis 
+607,5,1,Radia Perlman 
+392,2,1,Pier Giorgio Perotto 
+368,2,1,Rózsa Péter
+573,5,1,Simon Peyton Jones 
+427,6,1,Kathy Pham 
+45,5,1,Roberto Pieraccini 
+505,1,1,Gordon Plotkin
+92,5,1,Amir Pnueli 
+442,2,1,Willem van der Poel 
+355,5,1,Cicely Popplewell
+522,3,1,Emil Post 
+142,4,1,Jon Postel 
+386,4,1,Franco Preparata 
+496,1,1,William H. Press 
+107,2,1,Rapelang Rabana
+454,2,1,Grzegorz Rozenberg 
+490,2,1,Michael O. Rabin 
+371,1,1,Dragomir R. Radev 
+35,5,1,T. V. Raman 
+554,2,1,Brian Randell 
+551,2,1,Anders P. Ravn 
+282,2,1,Raj Reddy 
+41,3,1,David P. Reed
+154,3,1,Trygve Reenskaug 
+529,4,1,John C. Reynolds 
+625,1,1,Joyce K. Reynolds 
+649,3,1,Reinder van de Riet 
+323,5,1,Bernard Richards 
+356,4,1,Martin Richards 
+237,5,1,Adam Riese
+232,2,1,C. J. van Rijsbergen
+36,4,1,Dennis Ritchie 
+553,6,1,Ron Rivest 
+292,2,1,Ken Robinson 
+641,1,1,Colette Rolland 
+118,3,1,John Romero 
+229,3,1,Azriel Rosenfeld
+559,2,1,Douglas T. Ross 
+341,6,1,Guido van Rossum 
+194,6,1,M. A. Rothman 
+440,4,1,Winston W. Royce 
+18,5,1,Rudy Rucker 
+634,2,1,Steven Rudich 
+352,4,1,Jeff Rulifson
+22,6,1,James Rumbaugh 
+156,3,1,Peter Ruži?ka
+251,4,1,George Sadowsky
+604,2,1,Umar Saif
+580,5,1,Gerard Salton 
+279,6,1,Jean E. Sammet 
+471,3,1,Claude Sammut 
+482,3,1,Carl Sassenrath 
+227,3,1,Mahadev Satyanarayanan 
+616,3,1,Walter Savitch 
+303,5,1,Jonathan Schaeffer
+599,4,1,Wilhelm Schickard 
+169,1,1,Jürgen Schmidhuber
+283,1,1,Steve Schneider 
+79,1,1,Bruce Schneier 
+286,6,1,Fred B. Schneider 
+64,1,1,Sarita Schoenebeck
+474,6,1,Glenda Schroeder 
+241,4,1,Bernhard Schölkopf
+561,4,1,Dana Scott 
+418,3,1,Michael L. Scott 
+245,5,1,Robert Sedgewick 
+644,2,1,Ravi Sethi 
+337,3,1,Nigel Shadbolt
+562,2,1,Adi Shamir 
+254,1,1,Claude Shannon 
+177,1,1,David E. Shaw 
+320,2,1,Cliff Shaw 
+468,6,1,Scott Shenker 
+63,6,1,Ben Shneiderman 
+122,2,1,Edward H. Shortliffe 
+192,1,1,Daniel Siewiorek 
+382,1,1,Joseph Sifakis 
+198,1,1,Herbert A. Simon 
+105,3,1,Munindar P. Singh 
+216,5,1,Ramesh Sitaraman 
+623,3,1,Daniel Sleator 
+48,3,1,Aaron Sloman 
+164,1,1,Arne Sølvberg
+629,5,1,Brian Cantwell Smith 
+647,3,1,David Canfield Smith 
+404,2,1,Steven Spewak 
+378,4,1,Carol Spradling
+447,6,1,Robert Sproull
+394,5,1,Rohini Kesavan Srihari 
+214,6,1,Sargur Srihari 
+96,5,1,Maciej Stachowiak 
+119,6,1,Richard Stallman
+518,1,1,Ronald Stamper
+78,4,1,Richard E. Stearns 
+432,1,1,"Guy L. Steele, Jr. "
+153,3,1,Thomas Sterling 
+564,3,1,Alexander Stepanov 
+592,5,1,W. Richard Stevens
+307,1,1,Larry Stockmeyer 
+437,6,1,Salvatore Stolfo 
+614,4,1,Michael Stonebraker 
+345,5,1,Olaf Storaasli 
+120,2,1,Christopher Strachey 
+662,5,1,Volker Strassen 
+202,3,1,Bjarne Stroustrup 
+179,6,1,Madhu Sudan 
+338,1,1,Gerald Jay Sussman 
+372,2,1,Bert Sutherland 
+305,6,1,Ivan Sutherland 
+663,5,1,Latanya Sweeney 
+393,2,1,Mario Szegedy 
+650,1,1,Parisa Tabriz 
+74,3,1,Roberto Tamassia 
+555,6,1,Andrew S. Tanenbaum 
+113,5,1,Austin Tate 
+536,3,1,Bernhard Thalheim 
+358,4,1,Éva Tardos
+532,4,1,Gábor Tardos
+124,6,1,Robert Tarjan 
+220,4,1,Valerie Taylor
+438,6,1,Mario Tchou 
+82,3,1,Jaime Teevan
+582,4,1,Shang-Hua Teng 
+664,1,1,Larry Tesler 
+361,2,1,Avie Tevanian 
+9,1,1,Charles P. Thacker 
+516,6,1,Daniel Thalmann 
+306,5,1,Ken Thompson 
+543,2,1,Sebastian Thrun 
+587,6,1,Walter F. Tichy 
+33,2,1,Seinosuke Toda 
+544,6,1,Linus Torvalds 
+365,1,1,Leonardo Torres y Quevedo
+611,2,1,Godfried Toussaint 
+535,4,1,Gloria Townsend
+657,5,1,Edwin E. Tozer 
+304,4,1,Joseph F Traub 
+161,5,1,John V. Tucker 
+377,3,1,John Tukey 
+25,1,1,Alan Turing
+494,4,1,David Turner 
+147,3,1,Murray Turoff 
+256,4,1,Jeffrey D. Ullman 
+588,2,1,Leslie Valiant 
+426,4,1,Vladimir Vapnik 
+565,6,1,Moshe Vardi 
+511,4,1,Dorothy Vaughan
+285,5,1,Umesh Vazirani
+466,2,1,Manuela M. Veloso
+563,2,1,François Vernadat
+435,1,1,Richard Veryard 
+669,3,1,Sergiy Vilkomir 
+613,5,1,Paul Vitanyi 
+606,6,1,Andrew Viterbi 
+39,1,1,Jeffrey Scott Vitter 
+76,5,1,Paul Vixie 
+360,3,1,Eiiti Wada 
+173,6,1,David Wagner 
+168,3,1,David Waltz
+475,4,1,James Z. Wang
+383,3,1,Steve Ward
+238,2,1,Manfred K. Warmuth 
+473,6,1,David H. D. Warren 
+54,4,1,Kevin Warwick 
+302,4,1,Jan Weglarz
+314,3,1,Philip Wadler 
+350,5,1,Peter Wegner 
+517,2,1,Joseph Henry Wegstein 
+334,3,1,Peter J. Weinberger 
+203,4,1,Mark Weiser 
+80,4,1,Joseph Weizenbaum 
+53,5,1,David Wheeler 
+667,5,1,Franklin H. Westervelt 
+639,3,1,Steve Whittaker 
+507,1,1,Jennifer Widom 
+252,6,1,Gio Wiederhold 
+558,6,1,Norbert Wiener 
+400,3,1,Adriaan van Wijngaarden 
+20,2,1,Mary Allen Wilkes 
+622,6,1,Maurice Vincent Wilkes 
+387,1,1,Yorick Wilks 
+301,2,1,James H. Wilkinson 
+379,1,1,Sophie Wilson 
+351,4,1,Shmuel Winograd 
+187,4,1,Terry Winograd 
+197,3,1,Patrick Winston 
+14,5,1,Niklaus Wirth 
+373,2,1,Neil Wiseman 
+135,6,1,Dennis E. Wisnosky 
+15,4,1,Stephen Wolfram 
+411,4,1,Mike Woodger 
+52,3,1,Philip Woodward 
+40,4,1,Beatrice Helen Worsley 
+445,5,1,Steve Wozniak 
+110,3,1,Jie Wu 
+605,1,1,William Wulf 
+310,6,1,Mihalis Yannakakis
+636,1,1,Andrew Chi-Chih Yao
+127,5,1,John Yen
+499,1,1,Nobuo Yoneda 
+99,2,1,Edward Yourdon 
+469,4,1,Moti Yung
+266,2,1,Lotfi Zadeh 
+188,1,1,Hans Zantema 
+131,1,1,Arif Zaman 
+224,6,1,Stanley Zdonik
+253,5,1,Hussein Zedan 
+125,6,1,Shlomo Zilberstein 
+433,3,1,Jill Zimmerman 
+219,1,1,Konrad Zuse 
